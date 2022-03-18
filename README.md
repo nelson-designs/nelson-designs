@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **GSAP and Barba JS**
 
-👨‍💻 All of my projects are available at [tylernelson.ca](tylernelson.ca)
+  👨‍💻 All of my projects are available at <a href="https://tylernelson.ca"><strong>tylernelson.ca</strong></a>
 
 📫 How to reach me **hello@tylernelson.ca**
 
