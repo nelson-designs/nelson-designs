@@ -3,9 +3,9 @@
 
 <div align="center">
 
-🌱 I’m currently learning **GSAP and Barba JS**
+🌱 I’m currently learning **GSAP**
 
-  👨‍💻 All of my projects are available at <a href="https://tylernelson.ca"><strong>tylernelson.ca</strong></a>
+  👨‍💻 Some of my projects are available at <a href="https://tylernelson.ca"><strong>tylernelson.ca</strong></a>
 
 📫 How to reach me **hello@tylernelson.ca**
 
