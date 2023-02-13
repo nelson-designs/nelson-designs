@@ -3,7 +3,7 @@
 
 <div align="center">
 
-🌱 I’m currently learning **GSAP**
+<!--🌱 I’m currently learning **GSAP**-->
 
   👨‍💻 Some of my projects are available at <a href="https://tylernelson.ca"><strong>tylernelson.ca</strong></a>
 
